@@ -6,7 +6,7 @@
 # checks for folders and creates them
 # then scans for jpgs' and gifs' and sorts them in the correct folder
 # prompts user when completed 
-
+#
 
 import os     # used to locate directories and make it work in windows and linux file systems 
 import glob   # used to search directory for files with * wild card 
